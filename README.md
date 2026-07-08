@@ -1,15 +1,15 @@
-# Public-Hospital-Utilization-Analysis
+# Public-Hospital-Analysis
 ### Project Overview
 A data-driven project exploring Nigerian hospital records (2023). Includes patient admissions, discharges, mortality, and average stay trends. Features cleaning, visualization, and insights for healthcare policy and management.
 ### Data Source
-The primary dataset used for thisanalysis is the "Public-Hospital-Utilization-Analysis-Excel" file, containing records from multiple states, hospitals, departments and customer experience.
+The primary dataset used for thisanalysis is the "Public-Hospital-Analysis-Excel" file, containing records from multiple states, hospitals, departments and customer experience.
 ### Tools
 - Excel
   - Data Cleaning
   - Pivot Table
     
 ### Dashboard Preview
-
+![Public Hospital Dashboard](Public Hospital.png)
 ### Data Cleaning
 
 In the initial data prepartion phase, the following tasks were performed:
