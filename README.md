@@ -9,7 +9,7 @@ The primary dataset used for thisanalysis is the "Public-Hospital-Analysis-Excel
   - Pivot Table
     
 ### Dashboard Preview
-![Public Hospital Dashboard](Public Hospital.png)
+![Public Hospital Dashboard] (public_hospital.png)
 ### Data Cleaning
 
 In the initial data prepartion phase, the following tasks were performed:
