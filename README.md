@@ -6,13 +6,14 @@ The primary dataset used for thisanalysis is the "Public-Hospital-Analysis-Excel
 ### Tools
 - Excel
   - Data Cleaning
-  - Pivot Table
+  - Data Analysis
+  -  Data Visualization
     
 ### Dashboard Preview
 ![Public Hospital Dashboard](public_hospital.png)
 ### Data Cleaning
 
-In the initial data prepartion phase, the following tasks were performed:
+In the initial data preparation phase, the following tasks were performed:
 1. Removed duplicates and standardized hospital names
 2. Handled missing values and ensured consistent data formats
 
